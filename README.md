@@ -2,7 +2,6 @@ HubSit Health Analytics ETL 🏥📊
 
 Este projeto consiste em um pipeline de Engenharia de Dados desenvolvido em Python para analisar e mitigar o absenteísmo (No-Show) em clínicas médicas. O projeto foi desenvolvido como parte de uma consultoria acadêmica para a startup de saúde HubSit.
 
-(Coloque o print do seu gráfico aqui)
 
 🎯 Objetivo
 
@@ -95,4 +94,3 @@ LinkedIn
 4.  Crie o `requirements.txt` e o `README.md`.
 5.  Dê `git init`, `git add .`, `git commit -m "Initial commit"` e suba para o GitHub.
 
-Isso mostrará para qualquer recrutador que você tem organização de nível sênior. Sucesso!
